@@ -5,6 +5,7 @@ CREATE TABLE `empleados` (
   `name` varchar(50) DEFAULT NULL,
   `salary` int(11) DEFAULT NULL, 
   PRIMARY KEY(id)
+
   );
   
   INSERT INTO empleados values 

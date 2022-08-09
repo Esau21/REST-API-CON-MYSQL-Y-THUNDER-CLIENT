@@ -62,4 +62,6 @@ router.delete('/:id', (req, res) => {
     });
 });
 
+//autor: Edgar Zelaya
+
 module.exports = router;

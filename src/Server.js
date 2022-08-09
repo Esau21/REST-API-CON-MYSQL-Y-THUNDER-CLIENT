@@ -16,3 +16,5 @@ app.use(require('./routes/empleados'));
 app.listen(app.get('port'), () => {
     console.log('Esto esta corriendo en el puerto', app.get('port'));
 });
+
+//autor: Edgar Zelaya

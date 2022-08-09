@@ -16,4 +16,6 @@ mysqlConnection.connect(function (err) {
     }
 });
 
+
+//autor: Edgar Zelaya
 module.exports = mysqlConnection;
